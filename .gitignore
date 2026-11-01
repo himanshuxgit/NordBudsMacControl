@@ -1,0 +1,11 @@
+.DS_Store
+
+# Xcode build products and local workspace state
+Build/
+ModuleCache/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+
+# Local build and diagnostic logs
+*.log
